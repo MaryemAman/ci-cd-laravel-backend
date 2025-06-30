@@ -20,6 +20,8 @@ return [
     'allowed_methods' => ['*'],
 
     'allowed_origins' => ['http://localhost:3000'],
+    'allowed_origins' => ['http://localhost:5050'],
+
 
     // The below is provided
     // 'allowed_origins' => ['*'],
